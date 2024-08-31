@@ -1,7 +1,3 @@
-Writers:
-Naama Davidi, Ran Tsioni
-
-Project description:
 This project contain python program and selenium that connect to Apple website and extract the prices,
 in addison its checks the search ability of the website Homepage, and the clickbility of the Explorepage objects.
 of the following products: Iphone, Airpods and Macbook.
